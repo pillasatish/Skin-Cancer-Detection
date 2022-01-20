@@ -1,0 +1,102 @@
+commit 1cf5c4d170c19ffd249f26b9e6019f79289a8292
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Thu Jan 20 02:42:20 2022 +0000
+
+    completed report and converted to pdf
+
+commit 85e47fe7610effdd87e2e647015d11994720f5a5
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Thu Jan 20 02:41:25 2022 +0000
+
+    completed Abstract and conveted to pdf
+
+commit 408065153b13a96b27da8cb3a9e413402f715d14
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 23:42:56 2022 +0000
+
+    started writing the the abstract for the project
+
+commit ce18d04db8933af5e7365f1a5a7e051354b64daa
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 23:40:54 2022 +0000
+
+    Created a file vesrion of IPYNB file and simulatenously completed the project report
+
+commit 7ba11fd9c82403ff4d1c025d5cb5dca8aff396db
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 23:05:34 2022 +0000
+
+    completed testing the models on random images
+
+commit 8f35c6b900c7c1a31d479db350db2bc36ed704a6
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 15:11:03 2022 +0000
+
+    saving the model and started testing on random images
+
+commit a79c6f8a595942bbebca9a3b111c3abc1eabc32f
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 06:21:51 2022 +0000
+
+    successfully calculated the accuracy and precison for InceptionV3 model
+
+commit 34965a6812f26918789874fb571580a77d0a9e1c
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Wed Jan 19 04:26:57 2022 +0000
+
+    build InceptionV3 model and caculated accuracy and precision of both the models
+
+commit c59a9a663e0dd95256c470c8167c8bca40858a06
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Tue Jan 18 00:40:19 2022 +0000
+
+    build VGG16Net model
+
+commit 8d2aba5a8b40e12f69e9f10b13acc3a150a69333
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 16:25:58 2022 +0000
+
+    started preprocessing and data cleasing, written steps for datapreprocessing and datacleasing in report
+
+commit 9bc0862b614d88cd95a8dcdd69197cd0a5ae82b7
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 15:37:23 2022 +0000
+
+    completed EDA both document and coding
+
+commit cb2319cafb8846d37b9c7d7e3ba46a40705f59bd
+Merge: ea945d4 523ff2d
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 06:46:09 2022 +0000
+
+    Merge branch 'main' of https://github.com/pillasatish/Skin_cancer_detection_using_CNN
+
+commit ea945d43e7e10094f8d713096478aa1bff778093
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 06:41:02 2022 +0000
+
+    finised introduction report
+
+commit 35b2577ac1a764b3394d78ec8f94f8c108c85700
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 06:40:01 2022 +0000
+
+    data cleasing process started
+
+commit 523ff2db3e41bf1c0cd01e97a507751472640a09
+Author: SATISH PILLA <38080613+pillasatish@users.noreply.github.com>
+Date:   Mon Jan 17 06:35:01 2022 +0000
+
+    Create README.md
+
+commit af0b007b24b9f3857b38a9f6107869e91ae67946
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 06:30:27 2022 +0000
+
+    started preparing the report
+
+commit 9ec082cfc2a1f6b7213f5ba1f966e6572ad47d6a
+Author: SATISH <pillasatish7@gmail.com>
+Date:   Mon Jan 17 05:56:57 2022 +0000
+
+    started machine learning project, loaded the dataset and performed inital exploratory data analysis
