@@ -12,6 +12,7 @@ How to load the dataset from kaggle directly(https://www.youtube.com/watch?v=57N
 The main Python libraries used to design the source code are scikit-learn, scikit-image and Keras. 
 
 **CODE**
+
 The SkinCancerDetection_B21047209_SATISH_PILLA.IPNYB file contains the source code for the entire project. For line of the code there is clear instruction of why were are running the particular code block.
 
 The kaggle.json file is the API token file to authenticate the kaggle account and downlaod the dataset form kaggle. 
@@ -19,6 +20,7 @@ The kaggle.json file is the API token file to authenticate the kaggle account an
 B210472095_SATISH_PILLA_MACHINE_LEARNING_ABSTRACT.pdf contains the abstract of the project.
 
 **Report**
+
 B210472095_SATISH_PILLA_MACHINE_LEARNING_REPORT.pdf is the overall report of the project. The report is organized as follows:
 
 1 Introduction	
