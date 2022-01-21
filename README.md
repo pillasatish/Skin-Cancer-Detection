@@ -7,7 +7,7 @@ The project has been written in Python and consists in a Jupyter notebook(google
 
 Dataset: HAM10000 dataset is directly downloaded from kaggle by loading the kaggle API.
 
-**CODE-FLOW**
+**Code-Flow**
 
 The main Python libraries used to design the source code are scikit-learn, scikit-image, Keras, numpy, pandas, tensorflow.
 
@@ -16,7 +16,7 @@ We are loading dataset from kaggle directly, you can find step by step process o
 Once the dataset is downloaded and loaded into google colab you can run all the pre-process step in the code snippets, Every line of code block as pre-text for easy understanding of the code. 
 
 
-**CODE**
+**Code**
 
 The SkinCancerDetection_B21047209_SATISH_PILLA.IPNYB file contains the source code for the entire project. For line of the code there is clear instruction of why were are running the particular code block.
 
