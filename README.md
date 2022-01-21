@@ -28,7 +28,7 @@ Once the dataset is downloaded and loaded into google colab you can run all the 
 
 **Code**
 
-The SkinCancerDetection_B21047209_SATISH_PILLA.IPNYB file contains the source code for the entire project. For line of the code there is clear instruction of why were are running the particular code block.
+The SkinCancerDetection_B21047209_SATISH_PILLA.IPNYB file contains the source code for the entire project. For every line of the code there is clear instruction of why were are running the particular code block.
 
 The kaggle.json file is the API token file to authenticate the kaggle account and downlaod the dataset form kaggle. 
 
