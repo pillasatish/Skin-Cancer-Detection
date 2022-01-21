@@ -9,7 +9,16 @@ Dataset: HAM10000 dataset is directly downloaded from kaggle by loading the kagg
 
 **Code-Flow**
 
-The main Python libraries used to design the source code are scikit-learn, scikit-image, Keras, numpy, pandas, tensorflow.
+The main Python libraries used to design the source code are scikit-learn, scikit-image, Keras, numpy, pandas and matplotlib.
+
+Pandas and numpy for data cleansing and data exploration.
+
+matplotlib for data visulization.
+
+scikit-image is an open source image processing library based on NumPy and SciPy, which includes several modules that implement all the main image processing algorithms for segmentation, geometric transformations, color space manipulation, filtering, morphology operations, feature extraction and so on. 
+
+Keras, is one of the most popular Python libraries for deep learning, designed to be interoperable with the most well-known frameworks for machine learning and neural network applications like Tensorflow
+
 
 We are loading dataset from kaggle directly, you can find step by step process of loading the data from kaggle form the foolowing youtube link(https://www.youtube.com/watch?v=57N1g8k2Hwc), First we need to generate a API token with our kaggle account, While running the files.upload in google colab we need upload the file to authenticate our kaggle account.  
 
