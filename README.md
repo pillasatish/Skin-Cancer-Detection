@@ -19,6 +19,7 @@ scikit-image is an open source image processing library based on NumPy and SciPy
 
 Keras, is one of the most popular Python libraries for deep learning, designed to be interoperable with the most well-known frameworks for machine learning and neural network applications like Tensorflow
 
+**Dataset load form Kaggle**
 
 We are loading dataset from kaggle directly, you can find step by step process of loading the data from kaggle form the foolowing youtube link(https://www.youtube.com/watch?v=57N1g8k2Hwc), First we need to generate a API token with our kaggle account, While running the files.upload in google colab we need upload the file to authenticate our kaggle account.  
 
