@@ -7,15 +7,22 @@ The project has been written in Python and consists in a Jupyter notebook(google
 
 Dataset: HAM10000 dataset is directly downloaded from kaggle by loading the kaggle API.
 
-How to load the dataset from kaggle directly(https://www.youtube.com/watch?v=57N1g8k2Hwc), First we need to generate a API token with our kaggle account, While running the files.upload in google colab we need upload the file to authenticate our kaggle account. Next steps are already mentioned in the code snipents.
+**CODE-FLOW**
 
-The main Python libraries used to design the source code are scikit-learn, scikit-image and Keras. 
+The main Python libraries used to design the source code are scikit-learn, scikit-image, Keras, numpy, pandas, tensorflow.
+
+We are loading dataset from kaggle directly, you can find step by step process of loading the data from kaggle form the foolowing youtube link(https://www.youtube.com/watch?v=57N1g8k2Hwc), First we need to generate a API token with our kaggle account, While running the files.upload in google colab we need upload the file to authenticate our kaggle account.  
+
+Once the dataset is downloaded and loaded into google colab you can run all the pre-process step in the code snippets, Every line of code block as pre-text for easy understanding of the code. 
+
 
 **CODE**
 
 The SkinCancerDetection_B21047209_SATISH_PILLA.IPNYB file contains the source code for the entire project. For line of the code there is clear instruction of why were are running the particular code block.
 
 The kaggle.json file is the API token file to authenticate the kaggle account and downlaod the dataset form kaggle. 
+
+**Abstract**
 
 B210472095_SATISH_PILLA_MACHINE_LEARNING_ABSTRACT.pdf contains the abstract of the project.
 
